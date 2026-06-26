@@ -8,9 +8,16 @@
 [![AI](https://img.shields.io/badge/AI-Gemini-orange?logo=google)](https://ai.google.dev)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
+
+PAGUINA WEB
+
+https://franciscoalmarazlap-cmd.github.io/ANITRAWEBZK.github/ 
+ 
+ 
+ 
  🌐 Live System
 
-[https://franciscoalmarazlap-cmd.github.io/ANITRAX.github.io](https://franciscoalmarazlap-cmd.github.io/anitrax/zk.github.io)
+[https://franciscoalmarazlap-cmd.github.io/ANITRAX.github.io](https://franciscoalmarazlap-cmd.github.io/anitrax-zk.github.io)
 
 
 🎥 Demo
