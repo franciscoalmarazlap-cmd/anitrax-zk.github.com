@@ -17,7 +17,7 @@ https://franciscoalmarazlap-cmd.github.io/ANITRAWEBZK.github/
  
  🌐 Live System
 
-[https://franciscoalmarazlap-cmd.github.io/ANITRAX.github.io](https://franciscoalmarazlap-cmd.github.io/anitrax-zk.github.io)
+https://github.com/franciscoalmarazlap-cmd/anitrax-zk.github.com
 
 
 🎥 Demo
